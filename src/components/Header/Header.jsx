@@ -14,7 +14,7 @@ export const Header = () => {
       }}
       className='h-40 flex w-100 justify-center'
     >
-      <h1 className='text-white font-title-text mt-auto text-3xl pb-2'>
+      <h1 className='text-white font-title-text mt-auto text-3xl pb-2 opacity-90'>
         Louisburg Junk Removal LLC
       </h1>
     </div>
