@@ -18,8 +18,8 @@ module.exports = {
     },
     extend: {
       fontFamily: {
-        "header-text": ["Spartan", "sans-serif"],
-        "main-content-text": ["Montserrat", "sans-serif"],
+        "title-text": ["Anton", "sans-serif"],
+        "content-text": ["IBM Plex Sans", "sans-serif"],
       },
     },
   },
