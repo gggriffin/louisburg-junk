@@ -9,6 +9,9 @@ module.exports = {
       blue: {
         primary: "#47e0ff",
       },
+      purple: {
+        accent: "#3F4056"
+      },
       white: "#FFFFFF",
       black: "#141414",
       trueBlack: "#000000",

@@ -3,12 +3,14 @@ import { FullWidthContainer } from "./components/FullWidthContainer/FullWidthCon
 import "./index.css";
 import { Header } from "./components/Header/Header";
 import { Footer } from "./components/Footer/Footer";
-//wrap Router around relevant components
+import { Body } from "./components/Body/Body";
+//wrap Router around relevant components if building multi page app
 
 function App() {
   return (
     <FullWidthContainer>
       <Header />
+      <Body/>
       <Footer />
     </FullWidthContainer>
   );
