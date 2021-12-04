@@ -12,9 +12,9 @@ export const Header = () => {
         backgroundRepeat: "no-repeat",
         backgroundSize: "cover",
       }}
-      className='h-40 flex w-100 justify-center'
+      className='h-40 flex w-100 justify-center shadow'
     >
-      <h1 className='text-white font-title-text mt-auto text-3xl pb-2 opacity-90'>
+      <h1 className='text-white font-title-text mt-auto text-3xl pb-2 opacity-90 shadow-md'>
         Louisburg Junk Removal LLC
       </h1>
     </div>
