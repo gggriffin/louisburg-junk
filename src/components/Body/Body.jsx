@@ -4,7 +4,7 @@ const detailsContent =
   "Dump bed trailers for self load. Large object removal service.";
 
 const pricingContent =
-  "Pricing available by weight or volume. Daily or weekly rates are available. Call (913)-353-5802 or email us at louisburgjunk@gmail.com for more pricing details.";
+  "Pricing available by weight or volume. Daily or weekly rates are available. Call (913)-353-5802 or send us an email at louisburgjunk@gmail.com for more pricing details.";
 
 export const Body = () => {
   return (
