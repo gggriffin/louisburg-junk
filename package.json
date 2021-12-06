@@ -1,8 +1,8 @@
 {
-  "name": "deadwoods",
+  "name": "louisburgjunk",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://deadwoods.org",
+  "homepage": "https://louisburgjunk.com",
   "dependencies": {
     "-": "^0.0.1",
     "@craco/craco": "^6.2.0",
